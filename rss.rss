@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>FutbolFlash Noticias</title>
+    <link>https://www.fufutbolflash.com</link>
+    <description>Las últimas noticias del mundo del fútbol, fichajes y resultados.</description>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 24 Oct 2023 10:00:00 GMT</lastBuildDate>
+    <atom:link href="https://www.tudominio.com/feed.xml" rel="self" type="application/rss+xml" />
+
+
+    <item>
+        <title>Sorteo de Octavos: El "Grupo de la Muerte" se repite</title>
+        <link>https://www.futbolflash.com/noticias/sorteo-champions-2024</link>
+        <description>El azar ha decidido que los gigantes de Europa se enfrenten antes de lo previsto. Análisis de los cruces.</description>
+        <category>Champions League</category>
+        <pubDate>Tue, 24 Oct 2023 10:00:00 GMT</pubDate>
+        <guid>https://www.tudominio.com/noticias/sorteo-champions-2024</guid>
+    </item>
+
+
+    <item>
+        <title>¿Rumbo a la Premier? La estrella del Bayer Leverkusen bajo la lupa</title>
+        <link>https://www.futbolflash.com/noticias/fichaje-wirtz-premier</link>
+        <description>Dos clubes de Londres y uno de Manchester pelean por la firma del mediapunta alemán.</description>
+        <category>Fichajes</category>
+        <pubDate>Mon, 23 Oct 2023 18:30:00 GMT</pubDate>
+        <guid>https://www.futbolflash.com/noticias/fichaje-wirtz-premier</guid>
+    </item>
+
+
