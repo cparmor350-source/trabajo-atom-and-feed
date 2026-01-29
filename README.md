@@ -1,6 +1,8 @@
 ⚽ FutbolFlash: The Heart of Football
 We have chosen the theme of a website about the world of football news. Our platform, FutbolFlash, is a modern web hub designed to keep fans updated with the latest happenings in the football world.
 
+
+
 🎯 Chosen Theme
 
 Football news and updates, including:
@@ -13,19 +15,29 @@ Football news and updates, including:
 
 -International competitions
 
+
+
 Modern UI: High-quality news cards for a clean and fast reading experience.
+
+
 
 Live Updates: Fully integrated with GitHub Pages for instant deployment.
 
+
 RSS Ready: Optimized for Feedly to ensure you never miss a goal or a signing.
 
-🛠️ Built With
-Frontend: HTML5 & CSS3
+
+🛠️ Technologies Used
+-HTML5
+-CSS3
+-Atom / RSS Syndication
+-GitHub Pages
+
 
 🌐 Hosting Platform
-
 Platform: GitHub Pages
 Reason: Free, reliable static hosting with seamless GitHub integration
+
 
 Syndication: RSS/Atom Feeds
 
