@@ -48,6 +48,7 @@ Syndication: RSS/Atom Feeds
 GitHub Pages: (https://cparmor350-source.github.io/trabajo-atom-and-feed/)
 
 
-<img width="853" height="895" alt="image" src="https://github.com/user-attachments/assets/26180aeb-5a34-4ce6-be86-9f38cd422957" />
+<img width="1150" height="915" alt="image" src="https://github.com/user-attachments/assets/b3b2bb1a-25aa-478e-816c-3ae5a45dad8f" />
+
 
 <img width="1006" height="589" alt="image" src="https://github.com/user-attachments/assets/c084ba98-0f4b-42bb-bb34-cb5d0a564450" />
