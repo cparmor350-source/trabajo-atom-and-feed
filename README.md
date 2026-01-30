@@ -33,6 +33,9 @@ RSS Ready: Optimized for Feedly to ensure you never miss a goal or a signing.
 -Atom / RSS Syndication
 -GitHub Pages
 
+FEEDLY:https://feedly.com/i/discover?query=suggesto%2Fhttps:%2F%2Fgithub.com%2Fcparmor350-source%2Ftrabajo-atom-and-feed%3Ftab%3Dreadme-ov-file%26authuser%3D0&s=feedPreview:eyJzY2hlbWUiOiIiLCJmZWVkSWQiOiJmZWVkL2h0dHBzOi8vZ2l0aHViLmNvbS9jcGFybW9yMzUwLXNvdXJjZS90cmFiYWpvLWF0b20tYW5kLWZlZWQvY29tbWl0cy9tYWluLmF0b20ifQ
+
+
 
 🌐 Hosting Platform
 Platform: GitHub Pages
